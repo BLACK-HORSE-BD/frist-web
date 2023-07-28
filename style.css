@@ -1,1 +1,15 @@
-# frist-web
+body{
+    background-color: aqua;
+    border: 0cap;
+    border-color: black;
+    border-radius: 2%;
+    padding: auto;
+    margin:auto ;
+    width:50% ;
+    height :60vh ;
+    font-size:1.3em;
+    text-align:center;
+}
+h1{
+    font-style: var(black);
+}
